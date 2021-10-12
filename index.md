@@ -5,7 +5,7 @@ Recently, a variety of new equivariant neural network model architectures have b
 
 [Dian Wang](https://pointw.github.io), 
 [Robin Walters](http://mathserver.neu.edu/robin/), 
-[Xupeng Zhu](), (https://www.khoury.northeastern.edu/people/xupeng-zhu/), 
+[Xupeng Zhu](https://www.khoury.northeastern.edu/people/xupeng-zhu/), 
 [Robert Platt](http://www.ccs.neu.edu/home/rplatt/)
 
 Northeastern University
