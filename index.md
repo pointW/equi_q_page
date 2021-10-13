@@ -19,11 +19,32 @@ Northeastern University
 
 Robotic manipulation natually has some equivairant properties. In this block picking example, when the scene is rotated by 90 degrees, the optimal policy should also rotate by 90 degrees. This work utilizes such equivariant property to accelerate Q learning.
 
-<p float="center">
-  <img src="img/robot_h4.gif" width="300" />
-  <img src="img/robot_h4.gif" width="300" /> 
-  <img src="img/robot_h4.gif" width="300" />
-</p>
+<style>
+.column {
+  float: left;
+  width: 33.33%;
+}
+.caption {
+    margin: 0;
+    vertical-align: baseline;
+    text-align: center;
+}
+}
+</style>
+<div>
+  <div class="column">
+    <img src="img/robot_h4.gif" style="width:100%">
+    <p class="caption">aaaa</p>
+  </div>
+  <div class="column">
+    <img src="img/robot_h4.gif" style="width:100%">
+    <p class="caption">aaaa</p>
+  </div>
+  <div class="column">
+    <img src="img/robot_h4.gif" style="width:100%">
+    <p class="caption">aaaa</p>
+  </div>
+</div>
 
 ## Video
 
