@@ -9,18 +9,15 @@ Published at the Conference on Robot Learning (CoRL) 2021
 [Xupeng Zhu](https://www.khoury.northeastern.edu/people/xupeng-zhu/), 
 [Robert Platt](http://www.ccs.neu.edu/home/rplatt/)
 
+Khoury College of Computer Sciences  
 Northeastern University
 
-```
-@inproceedings{
-wang2021equivariant,
-title={Equivariant \$Q\$ Learning in Spatial Action Spaces},
-author={Dian Wang and Robin Walters and Xupeng Zhu and Robert Platt},
-booktitle={5th Annual Conference on Robot Learning },
-year={2021},
-url={https://openreview.net/forum?id=IScz42A3iCI}
-}
-```
+## Idea
+<p align="center">
+  <img src="img/equi_pick.gif">
+</p>
+
+Robotic manipulation natually has some equivairant properties. In this block picking example, when the scene is rotated by 90 degrees, the optimal policy should also rotate by 90 degrees. This work utilizes such equivariant property to accelerate Q learning.
 
 ## Video
 
@@ -31,6 +28,18 @@ url={https://openreview.net/forum?id=IScz42A3iCI}
 ## Code
 
 [https://github.com/pointW/equi_q_corl21](https://github.com/pointW/equi_q_corl21)
+
+## Citation
+```
+@inproceedings{
+wang2021equivariant,
+title={Equivariant \$Q\$ Learning in Spatial Action Spaces},
+author={Dian Wang and Robin Walters and Xupeng Zhu and Robert Platt},
+booktitle={5th Annual Conference on Robot Learning },
+year={2021},
+url={https://openreview.net/forum?id=IScz42A3iCI}
+}
+```
 
 ## Contact
 If you have any questions, please feel free to contact [Dian Wang](https://pointw.github.io) at wang[dot]dian[at]northeastern[dot]edu.
