@@ -34,15 +34,15 @@ Robotic manipulation natually has some equivairant properties. In this block pic
 <div>
   <div class="column">
     <img src="img/robot_h4.gif" style="width:100%">
-    <p class="caption">aaaa</p>
+    <p class="caption">Bottle Arrangement</p>
   </div>
   <div class="column">
     <img src="img/robot_h4.gif" style="width:100%">
-    <p class="caption">aaaa</p>
+    <p class="caption">House Building</p>
   </div>
   <div class="column">
-    <img src="img/robot_h4.gif" style="width:100%">
-    <p class="caption">aaaa</p>
+    <img src="img/robot_box.gif" style="width:100%">
+    <p class="caption">Box Palletizing</p>
   </div>
 </div>
 
