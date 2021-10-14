@@ -23,7 +23,7 @@ Robotic manipulation naturally has some equivariant properties. In this block pi
   <img src="img/equi_fcn.png" width="300px">
 </p>
 
-Specifically, in the case of DQN where the input is the manipulation scene and the output is the Q values of all actions, when the scene transforms, the Q map containing the value of all translational actions should also transform; the Q vector containing the value of all rotational actions should circularly permute.
+Specifically, in the case of DQN where the input is the manipulation scene and the output is the Q values of all actions, when the scene transforms, the Q map containing the value of all translational actions should also transform; the Q vector containing the value of all rotational actions should circularly permute. By enforcing such equivariant property, our method can solve challanging manipulation tasks much faster than competing baselines.
 
 <style>
 .column {
@@ -50,8 +50,6 @@ Specifically, in the case of DQN where the input is the manipulation scene and t
     <p class="caption">Box Palletizing</p>
   </div>
 </div>
-
-By enforcing such equivariant property, our method can solve challanging manipulation tasks much faster than competing baselines.
 
 ## Video
 
