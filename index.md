@@ -33,7 +33,7 @@ Robotic manipulation natually has some equivairant properties. In this block pic
 </style>
 <div>
   <div class="column">
-    <img src="img/robot_h4.gif" style="width:100%">
+    <img src="img/robot_bt.gif" style="width:100%">
     <p class="caption">Bottle Arrangement</p>
   </div>
   <div class="column">
