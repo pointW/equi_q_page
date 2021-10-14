@@ -17,7 +17,13 @@ Northeastern University
   <img src="img/equi_pick.gif" width="400px">
 </p>
 
-Robotic manipulation natually has some equivairant properties. In this block picking example, when the scene is rotated by 90 degrees, the optimal policy should also rotate by 90 degrees. This work utilizes such equivariant property to accelerate Q learning.
+Robotic manipulation naturally has some equivariant properties. In this block picking example, when the scene is applied with an SE(2) transformation (e.g., rotate by 90 degrees), the optimal policy should also be applied with the same transformation. This work utilizes such equivariant property to accelerate Q learning.
+
+<p align="center">
+  <img src="img/equi_fcn.png" width="300px">
+</p>
+
+Specifically, in the case of DQN where the input is the manipulation scene and the output is the Q values of all actions, when the scene transforms, the Q map containing the value of all translational actions should also transform; the Q vector containing the value of all rotational actions should circularly permute.
 
 <style>
 .column {
