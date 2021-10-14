@@ -14,7 +14,7 @@ Northeastern University
 
 ## Idea
 <p align="center">
-  <img src="img/equi_pick.gif">
+  <img src="img/equi_pick.gif" width="400px">
 </p>
 
 Robotic manipulation natually has some equivairant properties. In this block picking example, when the scene is rotated by 90 degrees, the optimal policy should also rotate by 90 degrees. This work utilizes such equivariant property to accelerate Q learning.
@@ -28,7 +28,6 @@ Robotic manipulation natually has some equivairant properties. In this block pic
     margin: 0;
     vertical-align: baseline;
     text-align: center;
-}
 }
 </style>
 <div>
