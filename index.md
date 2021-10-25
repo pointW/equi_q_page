@@ -30,12 +30,49 @@ Specifically, in the case of DQN where the input is the manipulation scene and t
   float: left;
   width: 33.33%;
 }
+.lc{
+  float: left;
+  width: 16.66%;
+}
 .caption {
     margin: 0;
     vertical-align: baseline;
     text-align: center;
 }
 </style>
+
+<p align="center">
+  <img src="img/envs.png" width="600px">
+  <p class="caption">The Experimental Environments</p>
+</p>
+
+<div>
+  <div class="lc">
+    <img src="img/4s.png" style="width:100%">
+    <p class="caption">Block Stacking</p>
+  </div>
+  <div class="lc">
+    <img src="img/bt.png" style="width:100%">
+    <p class="caption">Bottle Arrangement</p>
+  </div>
+  <div class="lc">
+    <img src="img/h4.png" style="width:100%">
+    <p class="caption">House Building</p>
+  </div>
+  <div class="lc">
+    <img src="img/covid.png" style="width:100%">
+    <p class="caption">Covid Test</p>
+  </div>
+  <div class="lc">
+    <img src="img/box18.png" style="width:100%">
+    <p class="caption">Box Palletizing</p>
+  </div>
+  <div class="lc">
+    <img src="img/bbp.png" style="width:100%">
+    <p class="caption">Bin Packing</p>
+  </div>
+</div>
+
 <div>
   <div class="column">
     <img src="img/robot_bt.gif" style="width:100%">
