@@ -46,6 +46,8 @@ Specifically, in the case of DQN where the input is the manipulation scene and t
   <p class="caption">The Experimental Environments</p>
 </p>
 
+The manipulation tasks of our experiments. The left subfigure shows the initial state and the right subfigure shows the goal state.
+
 <div>
   <div class="lc">
     <img src="img/4s.png" style="width:100%">
@@ -73,6 +75,8 @@ Specifically, in the case of DQN where the input is the manipulation scene and t
   </div>
 </div>
 
+Our equivariant method (in blue) significantly outperforms the baselines in most experiments.
+
 <div>
   <div class="column">
     <img src="img/robot_bt.gif" style="width:100%">
@@ -87,6 +91,8 @@ Specifically, in the case of DQN where the input is the manipulation scene and t
     <p class="caption">Box Palletizing</p>
   </div>
 </div>
+
+Our trained model can be applied in the real world.
 
 ## Video
 
