@@ -1,8 +1,33 @@
 **Abstract:** Recently, a variety of new equivariant neural network model architectures have been proposed that generalize better over rotational and reflectional symmetries than standard models. These models are relevant to robotics because many robotics problems can be expressed in a rotationally symmetric way. This paper focuses on equivariance over a visual state space and a spatial action space -- the setting where the robot action space includes a subset of SE(2). In this situation, we know a priori that rotations and translations in the state image should result in the same rotations and translations in the spatial action dimensions of the optimal policy. Therefore, we can use equivariant model architectures to make Q learning more sample efficient. This paper identifies when the optimal Q function is equivariant and proposes Q network architectures for this setting. We show experimentally that this approach outperforms standard methods in a set of challenging manipulation problems. 
 
 ## Paper
+<style>
+.split {
+  float: left;
+  width: 50%;
+}
+</style>
+
+<div>
+  <div class="column">
+  <p>Published at the Conference on Robot Learning (CoRL) 2021<br>
+  <a href="https://openreview.net/forum?id=IScz42A3iCI">OpenReview</a>
+  <a href="https://arxiv.org/abs/2110.15443">arXiv</a>
+  </p>
+
+  <p><a href="https://pointw.github.io">Dian Wang</a>, 
+  <a href="http://mathserver.neu.edu/robin/">Robin Walters</a>, 
+  <a href="https://www.khoury.northeastern.edu/people/xupeng-zhu/">Xupeng Zhu</a>, 
+  <a href="http://www.ccs.neu.edu/home/rplatt/">Robert Platt</a></p>
+  <p>Khoury College of Computer Sciences<br>
+  Northeastern University</p>
+  </div>
+</div>
+
+## Paper
 Published at the Conference on Robot Learning (CoRL) 2021  
 [OpenReview](https://openreview.net/forum?id=IScz42A3iCI)
+[arXiv](https://arxiv.org/abs/2110.15443)
 
 [Dian Wang](https://pointw.github.io), 
 [Robin Walters](http://mathserver.neu.edu/robin/), 
