@@ -24,25 +24,11 @@
   </div>
   
   <div class="split">
-    <p><b>Poster</b></p>
     <p><a href="https://openreview.net/attachment?id=IScz42A3iCI&name=poster">
 <img src="https://openreview.net/attachment?id=IScz42A3iCI&name=poster" width="300px">
 </a></p>
   </div>
 </div>
-
-## Paper
-Published at the Conference on Robot Learning (CoRL) 2021  
-[OpenReview](https://openreview.net/forum?id=IScz42A3iCI)
-[arXiv](https://arxiv.org/abs/2110.15443)
-
-[Dian Wang](https://pointw.github.io), 
-[Robin Walters](http://mathserver.neu.edu/robin/), 
-[Xupeng Zhu](https://www.khoury.northeastern.edu/people/xupeng-zhu/), 
-[Robert Platt](http://www.ccs.neu.edu/home/rplatt/)
-
-Khoury College of Computer Sciences  
-Northeastern University
 
 ## Idea
 <p align="center">
