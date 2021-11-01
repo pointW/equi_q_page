@@ -24,8 +24,9 @@
   </div>
   
   <div class="split">
+    <p><b>Poster</b></p>
     <p><a href="https://openreview.net/attachment?id=IScz42A3iCI&name=poster">
-<img src="https://openreview.net/attachment?id=IScz42A3iCI&name=poster" width="100%">
+<img src="https://openreview.net/attachment?id=IScz42A3iCI&name=poster" width="300px">
 </a></p>
   </div>
 </div>
