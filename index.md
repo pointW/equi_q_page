@@ -9,9 +9,9 @@
 </style>
 
 <div>
-  <div class="column">
+  <div class="split">
   <p>Published at the Conference on Robot Learning (CoRL) 2021<br>
-  <a href="https://openreview.net/forum?id=IScz42A3iCI">OpenReview</a>
+  <a href="https://openreview.net/forum?id=IScz42A3iCI">OpenReview</a><br>
   <a href="https://arxiv.org/abs/2110.15443">arXiv</a>
   </p>
 
@@ -21,6 +21,12 @@
   <a href="http://www.ccs.neu.edu/home/rplatt/">Robert Platt</a></p>
   <p>Khoury College of Computer Sciences<br>
   Northeastern University</p>
+  </div>
+  
+  <div class="split">
+    <p><a href="https://openreview.net/attachment?id=IScz42A3iCI&name=poster">
+<img src="https://openreview.net/attachment?id=IScz42A3iCI&name=poster" width="100%">
+</a></p>
   </div>
 </div>
 
